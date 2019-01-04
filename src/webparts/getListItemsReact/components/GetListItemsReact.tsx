@@ -36,7 +36,6 @@ export default class GetListItemsReact extends React.Component<IGetListItemsReac
                         <label className="ms-label">{item.CustomerAddress}</label>
                      </div>
                   </div>
-
                 );
               })
             }
